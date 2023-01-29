@@ -1,0 +1,30 @@
+1>Average case time complexity of quicksort?
+ans:
+2>Worst case time complexity of quicksort?
+ans:
+3>Worst case time complexity of quicksort?
+ans:
+4>def f():
+	ans = 0
+	for i = 1 to n:
+		for j = 1 to log(i):
+			ans += 1
+	print(ans)
+ans:
+5>def f():
+	a = 0
+	for i = 1 to n:
+		a += i;
+	b = 0
+	for i = 1 to m:
+		b += i;
+ ans:
+ 6>def f():
+	a = 0
+	for i = 1 to n:
+		a += random.randint();			
+		b = 0
+		for j = 1 to m:
+			b += random.randint();
+ans:
+7>
